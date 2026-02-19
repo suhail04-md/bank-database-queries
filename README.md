@@ -48,12 +48,6 @@ FROM BANK_ACCOUNT_TRANSACTION
 WHERE MONTH(Transaction_Date) = 3 AND YEAR(Transaction_Date) = 2020;
 ```
 
-## 📁 Files
-
-- `schema.sql` - Database schema and data
-- `queries.sql` - All SQL queries
-- `README.md` - Documentation
-
 ## 🛠️ Technologies
 
 - MySQL
